@@ -35,7 +35,7 @@ project you are interested in and typing
 
 ----
 $ ./mvnw install
-$ ./mvn install
+$ ./mvn install -p spring
 ----
 
 NOTE: You can also install Maven (>=3.3.3) yourself and run the `mvn` command
